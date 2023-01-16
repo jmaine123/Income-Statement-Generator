@@ -1,0 +1,1 @@
+A way to generate Income Statements over multiple files of bank statements. This process can be automated using Python and Pandas. What is need are trigger works to assist in categorizing expenses and revenue. Also the transaction type and whether the transaction is negative or positive also assists in the categorizing the transactions
